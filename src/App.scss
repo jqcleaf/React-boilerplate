@@ -1,0 +1,15 @@
+/* stylings for App component */
+*{
+    box-sizing: border-box;
+
+    .firstdiv{
+        background-color: aqua;
+        width: 300px;
+        height: 300px;
+        div{
+            background-color: bisque;
+            width: 200px;
+            height: 200px;
+        }
+    }
+}
